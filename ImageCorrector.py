@@ -1,7 +1,5 @@
 from astropy.io import fits
-import matplotlib.pyplot as plt
 import numpy as np
-from astropy.visualization import make_lupton_rgb
 from tkinter import Tk
 from tkinter.filedialog import askopenfilenames
 from tqdm import trange  # small module that allows to display progress bars https://github.com/tqdm/tqdm
